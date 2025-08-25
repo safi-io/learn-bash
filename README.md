@@ -1,4 +1,4 @@
-# Learn Bash Shell
+# Learn Bash
 
 A collection of Bash scripts for learning and practicing shell scripting.
 
@@ -9,10 +9,10 @@ A collection of Bash scripts for learning and practicing shell scripting.
 ## Running the scripts
 1. Give execute permission:
    ```bash
-   chmod +x script.sh```
+   chmod +x script.sh
 2. Run the script:
    ```bash
-   ./script.sh```
-
-## Enjoy Coding!
+   ./script.sh
+   
+### 🚀 Happy Scripting!
 
